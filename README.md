@@ -1,6 +1,6 @@
 # Admin Dashboard
 
-A modern, feature-rich Admin Dashboard application built using **React**.
+A modern, feature-rich Admin Dashboard application built using **React** and **Material UI**.
 
 ## Features
 
